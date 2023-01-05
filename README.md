@@ -10,13 +10,9 @@ Pour utiliser OpenMP dans un programme, vous devez inclure le fichier d'en-tête
 - Makefile
 - La bibliothèque OpenMP est installée sur votre ordinateur. Voici comment installer OpenMP sur Ubuntu:
 
-    1. Ouvrez un terminal et mettez à jour la liste des paquets disponibles : 
+    1. Ouvrez un terminal et mettez à jour la liste des paquets disponibles : 'sudo apt-get update'
     
-    'sudo apt-get update'
-    
-    2. Installez OpenMP en utilisant la commande suivante :
-    
-    'sudo apt-get install libomp-dev'
+    2. Installez OpenMP en utilisant la commande suivante : 'sudo apt-get install libomp-dev'
     
 
 # Utilisation
